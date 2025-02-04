@@ -1,1 +1,1 @@
-![task1.1](https://replit.com/@ladikovmax/java-first-Adey4k#Solution/task1.1.png "task1.1")
+https://github.com/ppc-ntu-khpi/java-first-Adey4k/blob/main/Solution/task1.1.png
