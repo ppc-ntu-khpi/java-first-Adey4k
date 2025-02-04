@@ -7,6 +7,6 @@
 
 
 ___
-*Additionaly*
+>*Additionaly*
 # task1.3
 ![task1.3](https://github.com/ppc-ntu-khpi/java-first-Adey4k/blob/main/Solution/task1.3.png "task1.3")
