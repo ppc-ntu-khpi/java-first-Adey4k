@@ -4,7 +4,7 @@
 # task2.2
 ![task2.2](https://github.com/ppc-ntu-khpi/java-first-Adey4k/blob/main/Solution/task2.2.png "task2.2")
 
-<br><br>
+<br><br> 
 ___
 >*Additionaly*
 # task2.3
