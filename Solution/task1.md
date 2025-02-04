@@ -1,1 +1,1 @@
-https://github.com/ppc-ntu-khpi/java-first-Adey4k/blob/main/Solution/task1.1.png
+![]https://github.com/ppc-ntu-khpi/java-first-Adey4k/blob/main/Solution/task1.1.png
